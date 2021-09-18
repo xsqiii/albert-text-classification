@@ -9,7 +9,7 @@ label: { 0: negative, 1: positive }
 ```
 tensorflow 2.3
 python 3.8
-[albert-tiny-zh](https://github.com/brightmart/albert_zh#%E6%A8%A1%E5%9E%8B%E4%B8%8B%E8%BD%BD-download-pre-trained-models-of-chinese)
+albert-tiny-zh
 ```
 
 ## train
