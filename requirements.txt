@@ -1,0 +1,10 @@
+tensorflow==2.3.0
+sentencepiece==0.1.96
+numpy==1.18.5
+six==1.16.0
+py_params==0.10.2
+params_flow==0.8.2
+tensorflow_hub==0.12.0
+absl_py==0.13.0
+params==0.9.0
+scikit_learn==0.24.2
