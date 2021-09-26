@@ -1,15 +1,22 @@
 # ALBERT for Chinese Text Classification
 
-## albert-zh finetune for tensorflow 2.x
-当前任务：情感分类 
 
-label: { 0: negative, 1: positive }
+## albert-zh finetune for tensorflow 2.x
+基于tf2及albert_zh的中文情感分析任务
+
 
 ## requirements
 ```
 tensorflow 2.3
 python 3.8
 albert-tiny-zh
+```
+
+
+##label
+```
+0: negative
+1: positive
 ```
 
 ## train
